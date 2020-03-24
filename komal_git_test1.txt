@@ -1,2 +1,3 @@
 my name is komal
 my name is komal 2nd commit
+Rohit added fromm git GUI
